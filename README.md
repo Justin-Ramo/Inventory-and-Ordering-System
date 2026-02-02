@@ -3,6 +3,9 @@
 A web-based management system built using PHP and HTML, designed specifically for a Lechon Manok business.
 This system helps the business owner manage sales, inventory, and staff operations while allowing staff members to securely log and report their daily sales.
 
+<img width="1919" height="914" alt="mamaf1" src="https://github.com/user-attachments/assets/4ff5f6cc-f20d-468e-a1dd-444b7d46548b" />
+
+
 📌 Project Description
 
 The Lechon Manok Management System streamlines daily business operations by replacing manual record-keeping with a centralized digital platform.
@@ -34,14 +37,4 @@ Record daily working hours
 
 Maintain accurate daily transaction logs
 
-🛠️ Technologies Used
 
-PHP – Backend logic
-
-HTML5 – Page structure
-
-CSS3 – Styling
-
-MySQL – Database
-
-XAMPP – Local development server
